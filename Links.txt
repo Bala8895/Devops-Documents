@@ -37,6 +37,9 @@ https://docs.google.com/document/d/1drfgnP4JPJhoIKOkTRmvhCRhynGmgPlv/edit - Cont
 
 https://docs.google.com/document/d/10dyXzkVgeqWaaja6AKDaKNfs-tXwu9kgRGwWXm23yz8/edit#heading=h.nf327o3e3njg - Using VSCode remotely on an EC2 instance
 
+file:///C:/Users/User/Downloads/Efficient%20Three-Tier%20Application%20Deployment%20on%20AWS%20with%20EC2%20and%20RDS.pdf - EFFICIENT THREE-TIER APPLICATION DEPLOYMENT
+ON AWS WITH EC2 AND RDS
+
 https://docs.google.com/document/d/1sF167WT3fcjvUnOT23bZsKjQ2pOeSzLB8BeHmlAlnws/edit - AWS Vpc Creation in Terraform
 
 https://docs.google.com/document/d/15utX8UvUVa1W_kb0JSwAgJDmz4L5rKcgYkxpJeU0-YU/edit#heading=h.yknga8t4nu3z - Setup Kubernetes on Amazon EKS
