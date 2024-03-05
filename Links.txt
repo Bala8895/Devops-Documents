@@ -1,0 +1,42 @@
+https://docs.google.com/document/d/115N884qwLieQRNLikyTCyk7EwbNJOH1sjilUihthcj4/edit#heading=h.i5x90q9p9i6m 
+Bash
+
+https://docs.google.com/document/d/1hI_UM--4bb5pf4_BuSnsqoyMsn3MBNbV6945DcqeghQ/edit - Sample Application Build
+
+https://cmdgenerator.phphe.com/cmd-generators/awk  - AWK comments
+
+https://docs.google.com/document/d/1Tm-Lp1BEHRC9IhTObFDQ0-932WwGBG_u6Gb4nPvEJYk/edit - Containerization with Docker: Java, Python, and Node.js Applications 
+
+https://docs.google.com/document/d/1wyqxUU3pmmQ_eBtILSxUYUuodLGPbapt8XIRZDAr3GI/edit - DOCKER COMPOSE
+
+https://docs.google.com/document/d/1Ayg57GMlSeuNqUbzdA1hLmur725ZQbIvZMrPkE_nOSw/edit#heading=h.xbi40hd8e88r - Setting up a CI/CD
+
+https://docs.google.com/document/d/122_QZcSzvG55LfjZo2NaqAEhTxH9WFQewn-EtflqWxc/edit#heading=h.z0v5uq7zjxun - Copy of docker-jenkins
+
+https://docs.google.com/document/d/1u9GcS33K7lzpUdqEpD1mNdREsBlzwMgChbcHSL8pbKk/edit#heading=h.cwvz5zum74lv - Configuring Email Notification in Jenkins
+
+https://docs.google.com/document/d/1_pvm9hMnGJbf7aggNg-LSWpsvIkOABP9ULMNtqhEqY0/edit#heading=h.ay1sg4eibsrt - Jenkins Role-Based Access
+
+https://docs.google.com/document/d/1gTMGBG4tkiQrYAsXsGoE9RbAj5MsSU9Bzj9ahh2B-0E/edit - EBS - Elastic Block Storage
+
+https://docs.google.com/document/d/11OKEoq4kQszw6Uv7GIZzpMIZJhMTgg64/edit - Create a Master and Slave environment in Jenkins and run app deployment job in slave
+
+https://docs.google.com/document/d/1vZs_DHS9gZ-4_ssIj4NfgUwl9ELN9LCU-uCScl8uPSU/edit#heading=h.qv7qfmlgwj7a - Docker-compose
+
+https://docs.google.com/document/d/1abBZAHj0Mq5RFlb8v3IwO_fOXgqCWpquEF3-GjuK2S4/edit - Elastic load balancer
+
+https://docs.google.com/document/d/1abBZAHj0Mq5RFlb8v3IwO_fOXgqCWpquEF3-GjuK2S4/edit - Elastic load balancer
+
+https://docs.google.com/document/d/18tb1543Qb59mWhAwNhIXt3biYJDBfaxZ/edit - 3-Tier Architecture In AWS
+
+https://docs.google.com/document/d/1PWghD1uklVI37KiR92n9ln8WEUyO6bbbkXUU_ZtC13E/edit#heading=h.x44geimrpqar - Create a CI/CD pipeline on AWS
+
+https://docs.google.com/document/d/1buQoKfwYMMR01Yx6QWejg4NNQyu0lxup/edit - Continuous Integration for a Node.js Application using Git, Jenkins, and AWS Elastic Beanstalk 
+
+https://docs.google.com/document/d/1drfgnP4JPJhoIKOkTRmvhCRhynGmgPlv/edit - Continuous integration and deployment for Dockerised Node app to AWS Elastic Beanstalk with AWS CodeBuild and AWS CodePipeline
+
+https://docs.google.com/document/d/10dyXzkVgeqWaaja6AKDaKNfs-tXwu9kgRGwWXm23yz8/edit#heading=h.nf327o3e3njg - Using VSCode remotely on an EC2 instance
+
+https://docs.google.com/document/d/1sF167WT3fcjvUnOT23bZsKjQ2pOeSzLB8BeHmlAlnws/edit - AWS Vpc Creation in Terraform
+
+https://docs.google.com/document/d/15utX8UvUVa1W_kb0JSwAgJDmz4L5rKcgYkxpJeU0-YU/edit#heading=h.yknga8t4nu3z - Setup Kubernetes on Amazon EKS
