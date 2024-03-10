@@ -1,5 +1,4 @@
-https://docs.google.com/document/d/115N884qwLieQRNLikyTCyk7EwbNJOH1sjilUihthcj4/edit#heading=h.i5x90q9p9i6m 
-Bash
+https://docs.google.com/document/d/115N884qwLieQRNLikyTCyk7EwbNJOH1sjilUihthcj4/edit#heading=h.i5x90q9p9i6m - Bash
 
 https://docs.google.com/document/d/1hI_UM--4bb5pf4_BuSnsqoyMsn3MBNbV6945DcqeghQ/edit - Sample Application Build
 
@@ -45,3 +44,7 @@ ON AWS WITH EC2 AND RDS
 https://docs.google.com/document/d/1sF167WT3fcjvUnOT23bZsKjQ2pOeSzLB8BeHmlAlnws/edit - AWS Vpc Creation in Terraform
 
 https://docs.google.com/document/d/15utX8UvUVa1W_kb0JSwAgJDmz4L5rKcgYkxpJeU0-YU/edit#heading=h.yknga8t4nu3z - Setup Kubernetes on Amazon EKS
+
+https://docs.google.com/document/d/1Is4h94KVFliaNxSuBZX9Spui98CYiFOIawjLfYa3wBU/edit - APPLICATION DEPLOYMENT 
+USING DOCKER-JENKINS-AWS EKS,ECR
+
