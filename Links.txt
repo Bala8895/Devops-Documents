@@ -48,3 +48,4 @@ https://docs.google.com/document/d/15utX8UvUVa1W_kb0JSwAgJDmz4L5rKcgYkxpJeU0-YU/
 https://docs.google.com/document/d/1Is4h94KVFliaNxSuBZX9Spui98CYiFOIawjLfYa3wBU/edit - APPLICATION DEPLOYMENT 
 USING DOCKER-JENKINS-AWS EKS,ECR
 
+https://docs.google.com/document/d/1Jc3g0VxRbTtotgmVMM3ct9v2--MrU1ypPqYE6JnlTK4/edit#heading=h.ic9fb6wlxlki - EKS monitoring using Prometheus and Grafana
