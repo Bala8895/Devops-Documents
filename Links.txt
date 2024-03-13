@@ -51,3 +51,7 @@ USING DOCKER-JENKINS-AWS EKS,ECR
 https://docs.google.com/document/d/1Jc3g0VxRbTtotgmVMM3ct9v2--MrU1ypPqYE6JnlTK4/edit#heading=h.ic9fb6wlxlki - EKS monitoring using Prometheus and Grafana
 
 https://drive.google.com/drive/folders/1QEvaw8WQv8TRW_LvilFn6_Sff7_sZbjH - Overall links
+
+https://www.redhat.com/en/topics/automation/what-is-yaml#:~:text=YAML%20is%20a%20human%2Dreadable,is%20for%20data%2C%20not%20documents - What is YAML
+
+https://docs.ansible.com/ansible/latest/installation_guide/index.html  - Ansible install
